@@ -33,7 +33,7 @@ The app built to have an ML model to categorize every message received
 ## Screenshots
 
 ***Screenshot 1: App analysis of the data base***
-
+![Screenshot 1](https://github.com/oceandrivee/Udacity_Projects_2/blob/main/Screenshots/Screen%20Shot%202022-01-10%20at%2011.56.49.png)
 
 ***Screenshot 2: App word search Page***
 
