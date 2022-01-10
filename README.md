@@ -9,7 +9,7 @@ This code is designed to iniate a  web app which an emergency operators could ex
 
 The app built to have an ML model to categorize every message received
 ## File Description:
-* **process_data.py**: This python excutuble code takes as its input csv files containing message data and message categories (labels), and then creates a SQL database
+* **process_data.py**: This python executeable code takes as its input csv files containing message data and message categories (labels), and then creates a SQL database
 * **train_classifier.py**: This code trains the ML model with the SQL data base
 * **ETL Pipeline Preparation.ipynb**:  process_data.py development procces
 * **ML Pipeline Preparation.ipynb**: train_classifier.py. development procces
@@ -32,11 +32,11 @@ The app built to have an ML model to categorize every message received
 
 ## Screenshots
 
-***Screenshot 1: App analysis of the data base***
-![Screenshot 1](https://github.com/oceandrivee/Udacity_Projects_2/blob/main/Screenshots/Screen%20Shot%202022-01-10%20at%2011.56.49.png)
+***Screenshot 1: 
+![Screenshot 1](https://github.com/oceandrivee/Udacity_Projects_2/blob/main/Screenshots/Screen%20Shot%202022-01-10%20at%2012.12.42.png)
 
-***Screenshot 2: App word search Page***
-
+***Screenshot 2: 
+![Screenshot 2](https://github.com/oceandrivee/Udacity_Projects_2/blob/main/Screenshots/Screen%20Shot%202022-01-10%20at%2012.12.50.png)
 
 
 ## Licensing, Authors, Acknowledgements
