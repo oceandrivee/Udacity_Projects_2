@@ -29,3 +29,15 @@ The app built to have an ML model to categorize every message received
 
 3. Go to http://0.0.0.0:3001/
    Or Go to http://localhost:3001/
+
+## Screenshots
+
+***Screenshot 1: App analysis of the data base***
+
+
+***Screenshot 2: App word search Page***
+
+
+
+## Licensing, Authors, Acknowledgements
+This app was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
